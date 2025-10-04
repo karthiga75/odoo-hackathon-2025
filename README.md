@@ -1,5 +1,6 @@
 # odoo-hackathon-2025
 ## Team Details
+THE TECH TEAM 
 - [KARTHIGA N] - TEAM LEADER
 - [ASWINI M]
 - [NIVITHA J]
